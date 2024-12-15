@@ -57,13 +57,6 @@ Within cilium you can pick which IPAM method to use <br>
 * CRD-backed
 * Azure IPAM
 * AWS ENI
-* AWS ENI
-* AWS ENI
-* AWS ENI
-* AWS ENI
-* AWS ENI
-* AWS ENI
-* AWS ENI
 * GKE uses host scope
 
 ## kube-proxy replacement
